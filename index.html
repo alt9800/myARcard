@@ -15,13 +15,16 @@
             </a-marker>
             <a-entity camera></a-entity>
             
+            <a-asset-item id="myscan" src="myscan.glb"></a-asset-item>
+            <!--
             <a-assets>
             <a-asset-item id="model-obj" src="model.obj"></a-asset-item>
             <a-asset-item id="model-mtl" src="model.mtl"></a-asset-item>
             </a-assets>
-
-            <a-entity id="model" obj-model="obj:#model-obj; mtl:#model-mtl;" position="-5 0 -20" scale="2 2 2" rotation="0 0 0"></a-entity>    
-
+            
+            <a-entity id="#myscan" obj-model="obj:#model-obj; mtl:#model-mtl;" position="-5 0 -20" scale="2 2 2" rotation="0 0 0"></a-entity>    
+            -->
+            <a-entity gltf-model="#myscan" scale="0.1 0.1 0.1" rotation="-20 0 0" link="href: https://pandapanda.love" animation-mixer></a-entity>
         </a-scene>
     </body>
 </html>
