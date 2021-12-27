@@ -19,3 +19,12 @@ https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples
 - リポジトリをホスティングする
 
 - ARマーカーをAR。jsが動いてる状態で確認
+
+
+この場合はQRコードとARマーカーが再帰的になってるのでトリガーが一つのファイルアップロードで済むが、
+本来ならQRコードとARマーカーをそれぞれ作るべき
+
+
+# ホスティング先
+
+https://clever-wescoff-250f31.netlify.app/
