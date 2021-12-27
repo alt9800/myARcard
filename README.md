@@ -25,6 +25,8 @@ https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples
 本来ならQRコードとARマーカーをそれぞれ作るべき
 
 
+QRコードの作成->https://qr.quel.jp/url.php
+
 # ホスティング先
 
 https://clever-wescoff-250f31.netlify.app/
