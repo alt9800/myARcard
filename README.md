@@ -5,6 +5,7 @@
 https://qiita.com/ebiflyyyyyyyy/private/5ffb6f0c4205b81dd78c
 
 
+作った年代ごとにブランチを切るようにしている
 
 
 
@@ -30,3 +31,5 @@ QRコードの作成->https://qr.quel.jp/url.php
 # ホスティング先
 
 https://clever-wescoff-250f31.netlify.app/
+
+2023年はGithubPagesでホストする。
