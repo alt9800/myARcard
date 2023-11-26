@@ -1,12 +1,14 @@
 # myARcard
-こちらのブランチは新しくホスティングするように作成。
 
-2021年発注版の名刺に対応
+2023年発注版の名刺に対応させた。
 
+todo
+
+[ ] glbを新しいファイルに入れ替え
+[ ] script上でのアクションを定義(表示させ続ける)
 
 # published 
 
-https://gallant-perlman-49cbd7.netlify.app
+GitHub Pages 
 
-
-![QR_623752](https://user-images.githubusercontent.com/51439199/147491681-875fbf21-a7f3-4065-9ef4-1c8deddd10de.png)
+![image](./pattern-2023.png)
